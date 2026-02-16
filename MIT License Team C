@@ -1,0 +1,45 @@
+MIT License
+
+Copyright (c) 2026 DS606-SkinCancer-Team-C
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Attribution
+
+This project uses the following datasets and libraries:
+
+### HAM10000 Dataset
+- Original Paper: Tschandl, P., Rosendahl, C., & Kittler, H. (2018).
+  "The HAM10000 dataset, a large collection of multi-source dermatoscopic images
+  of common pigmented skin lesions."
+  Scientific Data, 5, 180161. https://doi.org/10.1038/sdata.2018.161
+- Available at: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+
+### Libraries & Frameworks
+- PyTorch: https://pytorch.org/ (BSD License)
+- Torchvision: https://pytorch.org/vision/ (BSD License)
+- timm: https://github.com/rwightman/pytorch-image-models (Apache 2.0)
+- Albumentations: https://albumentations.ai/ (MIT License)
+- scikit-learn: https://scikit-learn.org/ (BSD License)
+- Hydra: https://hydra.cc/ (Apache 2.0)
+
+### Open Source Community
+We acknowledge the open-source community for making this project possible.
