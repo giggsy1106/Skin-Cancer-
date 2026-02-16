@@ -1,5 +1,6 @@
 Skin Cancer Multimodal Classification
 Combining Dermatoscopic Images + Clinical Metadata for Better Diagnosis
+
 📌 About This Project
 
 Skin cancer is one of the most common cancers worldwide. Early detection can significantly improve patient outcomes.
